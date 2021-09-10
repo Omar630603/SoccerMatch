@@ -125,12 +125,13 @@
                 android:layout_below="@id/homeLabel"
                 android:background="#FEC260"
                 android:orientation="vertical">
+
                 <TextView
                     android:id="@+id/awayTeam"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Away Team"
                     android:background="#3B185F"
+                    android:text="Away Team"
                     android:textAlignment="center"
                     android:textColor="#FEC260"
                     android:textSize="20sp"
