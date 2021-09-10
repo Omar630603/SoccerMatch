@@ -50,10 +50,10 @@
                 android:layout_height="wrap_content"
                 android:background="#FEC260"
                 android:text="@string/home_team"
-                android:textStyle="bold"
                 android:textAlignment="center"
                 android:textColor="#3B185F"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:textStyle="bold" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -149,7 +149,7 @@
                 android:textAlignment="center"
                 android:textColor="#FEC260"
                 android:textSize="20sp"
-                android:textStyle="bold"/>
+                android:textStyle="bold" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
